@@ -12,6 +12,11 @@ Para esto podremos revisar los siguientes contenidos:
 2. Operadores en Python
     - Operadores Aritmeticos
     - Operadores de Asignacion
-
+    - Operadores de Comparacion
+    - Operadores Logicos
+3. Sentencias de Control en Python
+    - Sentencia If/Else
+    - Sentencia Simplificada
+4. Ciclos
 
 **Autor: Alvaro Renato Paredes Flores**
