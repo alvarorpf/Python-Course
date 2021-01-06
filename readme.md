@@ -18,5 +18,14 @@ Para esto podremos revisar los siguientes contenidos:
     - Sentencia If/Else
     - Sentencia Simplificada
 4. Ciclos
+    - Ciclo While
+    - Ciclo For
+    - Uso de Comandos break y continue
+5. Colecciones
+    - Colecciones Tipo Listas
+    - Colecciones Tipo Tuplas
+    - Colecciones Tipo Set
+    - - Colecciones Tipo Diccionario
+
 
 **Autor: Alvaro Renato Paredes Flores**
