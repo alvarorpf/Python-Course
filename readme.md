@@ -1,6 +1,6 @@
 # **Curso de Python de 0 a Experto**
 Dentro de este curso podremos revisar los conocimientos basicos y avanzados de python.
-Para esto podremos revisar los siguientes contenidos:
+Para esto se veran  los siguientes contenidos:
 1. Nociones Basicas de Python
     - Primer "Hola Mundo"
     - Variables en Python
@@ -25,7 +25,14 @@ Para esto podremos revisar los siguientes contenidos:
     - Colecciones Tipo Listas
     - Colecciones Tipo Tuplas
     - Colecciones Tipo Set
-    - - Colecciones Tipo Diccionario
-
+    - Colecciones Tipo Diccionario
+6. Funciones
+    - Funciones
+    - Manejo de Argumentos y Parametros
+    - Manejo del Comando return
+7. Clases y Objetos
+    - Defincion de una Clase
+    - Metodos de una Clase
+    - Usos Extra de una Clase
 
 **Autor: Alvaro Renato Paredes Flores**
