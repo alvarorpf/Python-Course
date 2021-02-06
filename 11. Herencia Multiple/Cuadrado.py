@@ -1,3 +1,7 @@
+# Manejo de herencia multiple  en Python 3
+# Clase 3
+# En esta clase principal llamaremos a las otras clases que declaramos previamente.
+# Primero se debe realizar la importacion de las mismas
 from Color import Color
 from Figura_Geometrica import FiguraGeometrica
 
@@ -31,7 +35,7 @@ print(c1)
 # Funcion para ver el orden en el cual se estan llamando las clases para ser ejecutadas
 print(Cuadrado.mro())
 
-# Creacion del Objecto Rectangulo
+# Creacion del Objeto Rectangulo
 r1 = Rectangulo(2,4,"Morado")
 print(r1)
 print(Rectangulo.mro())
