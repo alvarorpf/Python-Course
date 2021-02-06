@@ -34,5 +34,16 @@ Para esto se veran  los siguientes contenidos:
     - Defincion de una Clase
     - Metodos de una Clase
     - Usos Extra de una Clase
+8. Encapsulamiento
+    - Encapsulamiento de atributos
+    - Uso de Metodos Privados
+9. Herencia
+    - Herencia de Clases
+10. Modulos
+    - Declaracion de Modulos
+    - Llamada a funciones de Modulos desde otro programa
+11. Herencia Multiple
+    - Orden de llamada de Herencia Multiple
+    - Llamada a los atributos y funciones de clases heredadas
 
 **Autor: Alvaro Renato Paredes Flores**
