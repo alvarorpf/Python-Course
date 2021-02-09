@@ -45,5 +45,17 @@ Para esto se veran  los siguientes contenidos:
 11. Herencia Multiple
     - Orden de llamada de Herencia Multiple
     - Llamada a los atributos y funciones de clases heredadas
+12. Clases Abstractas
+    - Manejo de clases abstractas
+13. Contexto Estatico
+    - Variables Estaticas
+    - Metodos Estaticos
+14. Constantes
+    - Manejo de Constantes
+15. Diseño de Clases
+    - Diseño y declaracion de clases
+16. Sobrecarga de Operadores
+    - Manejo de sobrecarga de Operadores
+    - Lista de Operadores que pueden ser sobrecargados
 
 **Autor: Alvaro Renato Paredes Flores**
