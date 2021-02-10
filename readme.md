@@ -57,5 +57,13 @@ Para esto se veran  los siguientes contenidos:
 16. Sobrecarga de Operadores
     - Manejo de sobrecarga de Operadores
     - Lista de Operadores que pueden ser sobrecargados
-
+17. Polimorfismo
+    - Polimorfismo en funciones de clases
+18. Manejo de excepciones
+    - Uso de Try/Except para el manejo de excepciones
+    - Uso de else y finally para continuar con la ejecucion de un bloque Try/Except
+19. Manejo de archivos
+    - Creacion de archivos y adicion de contenido
+    - Lectura de archivos y copia de contenido a otro archivo
+    - Redireccionamiento de carpetas
 **Autor: Alvaro Renato Paredes Flores**
